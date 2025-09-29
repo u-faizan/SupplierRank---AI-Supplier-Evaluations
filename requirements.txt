@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+plotly
+streamlit
+openpyxl
+joblib
+
+
+# also install below librabies if you want to run the notebook
+# openpyxl
+# joblib
+# jupyter
+# ipykernel 
